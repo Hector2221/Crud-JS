@@ -1,0 +1,24 @@
+{
+  "perfil": [
+    {
+      "nombre": "Martin34",
+      "email": "Marti43n@alura.com",
+      "id": 2
+    },
+    {
+      "nombre": "mariano",
+      "email": "chan@gmail.com",
+      "id": "20989bff-cf68-4e47-b20e-ee02ebe08f38"
+    },
+    {
+      "nombre": "juan",
+      "email": "juan222@gmail.com",
+      "id": "e9b56b8d-4a74-4468-8cea-3afac7e3311d"
+    },
+    {
+      "nombre": "tron",
+      "email": "tronne222@gmail.com",
+      "id": "217fc85e-175d-449f-a636-8d60660dd06d"
+    }
+  ]
+}
